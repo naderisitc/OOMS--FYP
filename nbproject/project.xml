@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>org.netbeans.modules.php.project</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/php-project/1">
+            <name>OOMS</name>
+        </data>
+        <spellchecker-wordlist xmlns="http://www.netbeans.org/ns/spellchecker-wordlist/1">
+            <word>Admin</word>
+            <word>Johor</word>
+            <word>Melaka</word>
+            <word>Negeri</word>
+            <word>OOMS</word>
+            <word>Sembilan</word>
+            <word>Terengganu</word>
+        </spellchecker-wordlist>
+    </configuration>
+</project>
